@@ -1,0 +1,4 @@
+enum ActionEvent{
+SHOW_INPUT_FIELD,
+HIDE_INPUT_FIELD
+}
